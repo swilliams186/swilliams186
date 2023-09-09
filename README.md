@@ -1,5 +1,5 @@
 # Hi, I’m Steven Williams! 
-## I'm currently looking for entry level employment in the south west of England!
+## I'm currently a Support Developer working with Spring 5 webapps for premiere league football teams and more!
 ## I’m interested in Software Development in Python, Java and Javascript. 
 
 ###### I much prefer backend development however I am capable of front-end in a pinch!
